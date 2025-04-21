@@ -1,4 +1,4 @@
-# 🪑 Co-working Seat Booking App
+# 🪑 Co-working Space Booking App
 
 A responsive React + Material UI application to display available co-working spaces and their day pass pricing, pulled dynamically from a GitHub-hosted JSON API.
 
