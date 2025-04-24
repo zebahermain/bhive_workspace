@@ -3,7 +3,7 @@
 A responsive React + Material UI application to display available co-working spaces and their day pass pricing, pulled dynamically from a GitHub-hosted JSON API.
 
 ## 🚀 Live Demo
-👉 [View Live on Vercel](https://your-app.vercel.app)
+👉 [View Live on Vercel](https://bhive-workspace-delta.vercel.app)
 
 ## 🔧 Tech Stack
 - React + TypeScript
